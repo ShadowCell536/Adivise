@@ -2,6 +2,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adivise</h1>
 <h3 align="center">I'm Developer from Thai.</h3>
 
+<p align="center">
+
+<a href="https://dsc.bio/nanotect">
+  <img src="https://lanyard-profile-readme.vercel.app/api/515490955801919488" />
+</a>
+
+</p
 
 ## 🙋‍♂️ About Me
 
