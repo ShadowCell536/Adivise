@@ -12,7 +12,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 My project hard working **[NanoSpace](https://github.com/Adivise/NanoSpace)** (i not have a time to upcooming new realeases, but i working sure.)
+- Release! **[NanoSpace](https://github.com/Adivise/NanoSpace)** (Discord Music Bot)
+- Release! **[DisSpaceX](https://github.com/Adivise/DisSpaceX)** (Discord Music Bot)
+- Release! **[Fun-Together](https://github.com/Adivise/Fun-Together)** (Discord Together)
+- Release **[GOSU-TWITCHBOT](https://github.com/Adivise/gosu-twitchbot)** (osu!Twitchbot)
 
 - 🌱 I’m currently learning **Python & Javascript**
 
