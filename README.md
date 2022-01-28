@@ -12,10 +12,8 @@
 
 ## 🙋‍♂️ About Me
 
-- Release! **[NanoSpace](https://github.com/Adivise/NanoSpace)** (Discord Music Bot)
-- Release! **[DisSpaceX](https://github.com/Adivise/DisSpaceX)** (Discord Music Bot)
-- Release! **[Fun-Together](https://github.com/Adivise/Fun-Together)** (Discord Together)
-- Release! **[GOSU-TWITCHBOT](https://github.com/Adivise/gosu-twitchbot)** (osu!Twitchbot)
+- Release! **[NanoSpace](https://github.com/Adivise/NanoSpace)** (Discord Music Bot) Lavalink
+- Release! **[DisSpaceX](https://github.com/Adivise/DisSpaceX)** (Discord Music Bot) Opus
 
 - 🌱 I’m currently learning **Python & Javascript**
 
