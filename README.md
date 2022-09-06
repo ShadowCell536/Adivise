@@ -2,6 +2,10 @@
 <h1 align="center">Hi I'm Nanotect.</h1>
 <h3 align="center">I'm Developer from Thailand.</h3>
 
+<p align="center"> 
+  <a href="https://ko-fi.com/S6S2BGP40" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> 
+</p>
+
 <p align="center">
 
 <a href="https://dsc.bio/nanotect">
