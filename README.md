@@ -21,8 +21,10 @@
 <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
 </p>
+
+[![Gitlift](https://img.shields.io/badge/Gitlift-Determined-f57f17?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA/1BMVEUAAAD1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf///8hPsr3AAAAU3RSTlMAABW5kgobaKvsgQgar/NTgPmDrZ9gmOcGAgkEOuSurFrOxxNKcWMnAVfpo/rPNlwDWOicuNQHHGke6zU9eFsNQS9GPDJreUUSLFUFR1F1EGR7b+rfKSYAAACiSURBVHjaTckDGkNREEPhSW3btm3b7d3/Wur2zfmYP0QEmVyhBP0CVGqNVqfHHwxGk9litf3FYBfC4XS5bR7A61P6KRAUIhSORGNxIJFMpSmTzQldvlAsASinPRVCplqrN5oltNrtThdEL+k1+8BgWB6NX0DwTqYAZnPQP+gX/WWAQ3q1nm04bHd87Q/HpZnD5jTdnv8AZGQXL/8NnesNEjwASCETZucT9uAAAAAASUVORK5CYII=)](https://gitlift.com/user/adivise)
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -47,8 +49,6 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-  [![Gitlift](https://img.shields.io/badge/Gitlift-Determined-f57f17?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA/1BMVEUAAAD1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf///8hPsr3AAAAU3RSTlMAABW5kgobaKvsgQgar/NTgPmDrZ9gmOcGAgkEOuSurFrOxxNKcWMnAVfpo/rPNlwDWOicuNQHHGke6zU9eFsNQS9GPDJreUUSLFUFR1F1EGR7b+rfKSYAAACiSURBVHjaTckDGkNREEPhSW3btm3b7d3/Wur2zfmYP0QEmVyhBP0CVGqNVqfHHwxGk9litf3FYBfC4XS5bR7A61P6KRAUIhSORGNxIJFMpSmTzQldvlAsASinPRVCplqrN5oltNrtThdEL+k1+8BgWB6NX0DwTqYAZnPQP+gX/WWAQ3q1nm04bHd87Q/HpZnD5jTdnv8AZGQXL/8NnesNEjwASCETZucT9uAAAAAASUVORK5CYII=)](https://gitlift.com/user/adivise)
 
 ## 🌟 You can follow me in here:
 
