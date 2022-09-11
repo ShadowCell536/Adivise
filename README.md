@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- ⚡ Fun fact **play games, read manga, watching anime, streaming?**
+- ⚡ Fun fact **play games, read manga, watch anime, streaming**
 
 ## 🚀 Languages
 
