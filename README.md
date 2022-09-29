@@ -11,6 +11,12 @@
 <a href="https://dsc.bio/nanotect">
   <img src="https://lanyard-profile-readme.vercel.app/api/515490955801919488?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
 </a>
+  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Adivise&label=Profile%20Views&color=008042&style=for-the-badge&label=Prefile+Views" alt="Prefile Views"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Adivise" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Adivise" alt="Profile Forks"></a>
+</div>
 
 </p>
 
@@ -42,12 +48,6 @@
   <a href="https://github.com/Adivise">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adivise&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adivise&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Adivise&label=Profile%20Views&color=008042&style=for-the-badge&label=Prefile+Views" alt="Prefile+Views"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=for-the-badge&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Adivise" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Adivise" alt="Profile Forks"></a>
 </div>
 
 <div align="center">
