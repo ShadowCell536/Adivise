@@ -20,9 +20,7 @@
 
 </p>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@Adivise/a411e44c-56cb-4bf2-b9fd-da75e36b48c0.svg"></embed></figure>
 
 ## 🙋‍♂️ About Me
 
