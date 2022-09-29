@@ -56,7 +56,7 @@
 
 </div>
 
-## 🌟 You can follow me in here:
+## 🌟 Social Media:
 
 <div align="center"> 
 
