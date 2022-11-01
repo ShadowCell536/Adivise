@@ -24,7 +24,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m Full Stack **Discord.JS**
 
 - ⚡ Fun fact **play games, read manga, watch anime, streaming**
 
