@@ -6,15 +6,15 @@
   <a href="https://ko-fi.com/S6S2BGP40" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> 
 </p>
 
-<p align="center"> 
-  <a href="https://discord.gg/SNG3dh3MbR" target="_blank"> <img src="https://discordapp.com/api/guilds/903043706410643496/widget.png?style=banner2"/> </a> 
-</p>
-
 <p align="center">
 
 <a href="https://dsc.bio/nanotect">
   <img src="https://lanyard-profile-readme.vercel.app/api/515490955801919488?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
 </a>
+
+<p align="center"> 
+  <a href="https://discord.gg/SNG3dh3MbR" target="_blank"> <img src="https://discordapp.com/api/guilds/903043706410643496/widget.png?style=banner2"/> </a> 
+</p>
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Adivise&label=Profile%20Views&color=008042&style=for-the-badge&label=Prefile+Views" alt="Prefile Views"></a>
