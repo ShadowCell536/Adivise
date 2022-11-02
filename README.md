@@ -56,10 +56,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adivise&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<p align="center"> 
+  <a href="https://open.spotify.com/user/npafm70eecxoqgqhrvrvo73n4" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=npafm70eecxoqgqhrvrvo73n4"/> </a> 
+</p>
+
 <div align="center">
-
+  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+  
 </div>
 
 ## 🌟 Social Media:
