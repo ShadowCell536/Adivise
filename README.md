@@ -15,6 +15,12 @@
 <p align="center"> 
   <a href="https://discord.gg/SNG3dh3MbR" target="_blank"> <img src="https://discordapp.com/api/guilds/903043706410643496/widget.png?style=banner2"/> </a> 
 </p>
+
+<p align="center"> 
+<a href="https://osu.ppy.sh/users/21216709">
+  <img src="https://osu-sig.vercel.app/card?user=Suntury&mode=std&lang=en&blur=2&animation=true&hue=159&skills=true" />
+</a>
+</p>
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Adivise&label=Profile%20Views&color=008042&style=for-the-badge&label=Prefile+Views" alt="Prefile Views"></a>
