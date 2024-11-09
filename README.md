@@ -68,7 +68,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  [https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/ImJustNon/ImJustNon/output/snake.svg)
   
 </div>
 
