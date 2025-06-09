@@ -46,9 +46,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/?size=64&id=108784&format=png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/?size=64&id=54087&format=png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=64&id=nn5BRPhPpKAT&format=png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=64&id=asWSSTBrDlTW&format=png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=64&id=z1hRF8ZnphmY&format=png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=64&id=30998&format=png"/> </a>
+    <a style="padding-right:8px;" href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/?size=64&id=asWSSTBrDlTW&format=png"/> </a>
+    <a style="padding-right:8px;" href="https://www.electronjs.org/" target="_blank"> <img src="https://img.icons8.com/?size=64&id=z1hRF8ZnphmY&format=png"/> </a>
+    <a style="padding-right:8px;" href="https://discord.js.org/" target="_blank"> <img src="https://img.icons8.com/?size=64&id=30998&format=png"/> </a>
 </p>
 
 ## 📃 Contributions
