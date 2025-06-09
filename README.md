@@ -34,7 +34,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m Full Stack **Discord.JS**
+- 🌱 I’m kindna expert Javascript Full-Stack Developer, **Discord.JS/React.JS/Electron.JS**
 
 - ⚡ Fun fact **play games, read manga, watch anime, streaming**
 
